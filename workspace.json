@@ -2,6 +2,8 @@
   "version": 2,
   "projects": {
     "myapp": "apps/myapp",
-    "myapp-e2e": "apps/myapp-e2e"
+    "myapp-e2e": "apps/myapp-e2e",
+    "shared-lib": "libs/shared-lib",
+    "shared-lib-e2e": "apps/shared-lib-e2e"
   }
 }
